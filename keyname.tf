@@ -1,5 +1,5 @@
 # Defining Key Name for connection
-variable "keyname" {
+variable "Keyname" {
   default     = "tolu1" 
   description = "Name of AWS key pair"
 }
