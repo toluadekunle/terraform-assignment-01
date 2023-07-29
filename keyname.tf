@@ -1,5 +1,5 @@
 # Defining Key Name for connection
 variable "keyname" {
-  default     = "terraform-project" 
+  default     = "tolu1" 
   description = "Name of AWS key pair"
 }
